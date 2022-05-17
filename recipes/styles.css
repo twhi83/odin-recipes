@@ -1,0 +1,16 @@
+body{
+    background-color: gold;
+}
+
+div{
+    color: black;
+}
+
+.list{
+    color: red;
+
+}
+
+.steps.list{
+    color: green;
+}
